@@ -74,7 +74,7 @@ This project investigates the relationship between COVID-19 impact and global ha
 
 ## ✍️ Author
 
-**Prakriti Kesharwani**
+**Prakriti Kesharwani** <br>
 GitHub: [@prakritikesharwani](https://github.com/prakritikesharwani)
 
 
