@@ -75,7 +75,6 @@ This project investigates the relationship between COVID-19 impact and global ha
 ## ✍️ Author
 
 **Prakriti Kesharwani**
-B.Com. (Data Science), Kesharwani College, Jabalpur
 GitHub: [@prakritikesharwani](https://github.com/prakritikesharwani)
 
 
